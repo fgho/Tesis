@@ -1,0 +1,524 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TT
+</name>
+</assembly>
+<members>
+<member name="T:R.bdremuneracionDataSet.anexoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.AnticiposDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.bancoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.CargaFamiliarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.cc_trabajadorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.CentroCostoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.ContratoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.cuenta_bancariaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.DescuentosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.descuentos_liquidacionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.EmpresaContratistaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.FiniquitoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.haber_liquidacionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.HaberesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.LicenciaMedicaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.LiquidacionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.OrganismoPrevisionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.OrganismoSaludDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.parametrosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.SeguroCesantiaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.TasasPrevisionalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.trabajadorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.trabajador_previsionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.trabajador_saludDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.TramosAsigFamiliarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.TramosIUTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.VacacionesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.IngresoHorasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.OficioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.anexoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.AnticiposRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.bancoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.CargaFamiliarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.cc_trabajadorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.CentroCostoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.ContratoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.cuenta_bancariaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.DescuentosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.descuentos_liquidacionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.EmpresaContratistaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.FiniquitoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.haber_liquidacionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.HaberesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.LicenciaMedicaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.LiquidacionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.OrganismoPrevisionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.OrganismoSaludRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.parametrosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.SeguroCesantiaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.TasasPrevisionalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.trabajadorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.trabajador_previsionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.trabajador_saludRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.TramosAsigFamiliarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.TramosIUTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.VacacionesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.IngresoHorasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.OficioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.anexoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.AnticiposRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.bancoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.CargaFamiliarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.cc_trabajadorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.CentroCostoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.ContratoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.cuenta_bancariaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.DescuentosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.descuentos_liquidacionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.EmpresaContratistaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.FiniquitoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.haber_liquidacionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.HaberesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.LicenciaMedicaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.LiquidacionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.OrganismoPrevisionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.OrganismoSaludRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.parametrosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.SeguroCesantiaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.TasasPrevisionalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.trabajadorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.trabajador_previsionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.trabajador_saludRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.TramosAsigFamiliarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.TramosIUTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.VacacionesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.IngresoHorasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet.OficioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:R.bdremuneracionDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.anexoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.AnticiposTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.bancoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.CargaFamiliarTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.cc_trabajadorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.CentroCostoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.ContratoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.cuenta_bancariaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.DescuentosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.descuentos_liquidacionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.EmpresaContratistaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.FiniquitoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.haber_liquidacionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.HaberesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.LicenciaMedicaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.LiquidacionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.OrganismoPrevisionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.OrganismoSaludTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.parametrosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.SeguroCesantiaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.TasasPrevisionalesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.trabajadorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.trabajador_previsionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.trabajador_saludTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.TramosAsigFamiliarTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.TramosIUTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.VacacionesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.IngresoHorasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.OficioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:R.bdremuneracionDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(R.bdremuneracionDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:R.bdremuneracionDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(R.bdremuneracionDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:R.bdremuneracionDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(R.bdremuneracionDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:R.bdremuneracionDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:R.bdremuneracionDataSetTableAdapters.TableAdapterManager.UpdateAll(R.bdremuneracionDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:R.bdremuneracionDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:R.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:R.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:R.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
