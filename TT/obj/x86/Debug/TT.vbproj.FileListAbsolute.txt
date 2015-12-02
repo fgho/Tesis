@@ -1,0 +1,132 @@
+C:\Users\Camilo\documents\visual studio 2010\Projects\TT\TT\obj\x86\Debug\R.Form1.resources
+C:\Users\Camilo\documents\visual studio 2010\Projects\TT\TT\obj\x86\Debug\R.Menúvb.resources
+C:\Users\Camilo\documents\visual studio 2010\Projects\TT\TT\obj\x86\Debug\R.Resources.resources
+C:\Users\Camilo\documents\visual studio 2010\Projects\TT\TT\obj\x86\Debug\TT.vbproj.GenerateResource.Cache
+C:\Users\Camilo\documents\visual studio 2010\Projects\TT\TT\bin\Debug\TT.exe
+C:\Users\Camilo\documents\visual studio 2010\Projects\TT\TT\bin\Debug\TT.pdb
+C:\Users\Camilo\documents\visual studio 2010\Projects\TT\TT\bin\Debug\TT.xml
+C:\Users\Camilo\documents\visual studio 2010\Projects\TT\TT\obj\x86\Debug\TT.exe
+C:\Users\Camilo\documents\visual studio 2010\Projects\TT\TT\obj\x86\Debug\TT.xml
+C:\Users\Camilo\documents\visual studio 2010\Projects\TT\TT\obj\x86\Debug\TT.pdb
+C:\Users\Camilo\documents\visual studio 2010\Projects\TT\TT\obj\x86\Debug\R.MantenedorEmpleados.resources
+C:\Users\Camilo\documents\visual studio 2010\Projects\TT\TT\obj\x86\Debug\R.Agregar_Modificar.resources
+C:\Users\Camilo\documents\visual studio 2010\Projects\TT\TT\obj\x86\Debug\R.Eventos.resources
+C:\Users\Camilo\Desktop\TT\TT\obj\x86\Debug\TT.exe
+C:\Users\Camilo\Desktop\TT\TT\obj\x86\Debug\TT.xml
+C:\Users\Camilo\Desktop\TT\TT\obj\x86\Debug\TT.pdb
+C:\Users\Camilo\Desktop\TT\TT\bin\Debug\TT.exe
+C:\Users\Camilo\Desktop\TT\TT\bin\Debug\TT.pdb
+C:\Users\Camilo\Desktop\TT\TT\bin\Debug\TT.xml
+C:\Users\Camilo\Desktop\TT\TT\obj\x86\Debug\R.Agregar_Modificar.resources
+C:\Users\Camilo\Desktop\TT\TT\obj\x86\Debug\R.Eventos.resources
+C:\Users\Camilo\Desktop\TT\TT\obj\x86\Debug\R.Form1.resources
+C:\Users\Camilo\Desktop\TT\TT\obj\x86\Debug\R.MantenedorEmpleados.resources
+C:\Users\Camilo\Desktop\TT\TT\obj\x86\Debug\R.Menúvb.resources
+C:\Users\Camilo\Desktop\TT\TT\obj\x86\Debug\R.Resources.resources
+C:\Users\Camilo\Desktop\TT\TT\obj\x86\Debug\TT.vbproj.GenerateResource.Cache
+C:\Users\Camilo\Desktop\TT\TT\obj\x86\Debug\R.ImprimirFiniquito.resources
+C:\Users\Camilo\Desktop\TT\TT\obj\x86\Debug\R.Calculo.resources
+C:\Users\Camilo\Desktop\TT\TT\obj\x86\Debug\R.InformeCC.resources
+C:\Users\Camilo\Desktop\TT\TT\obj\x86\Debug\R.InformeHorasExtras.resources
+C:\Users\Camilo\Desktop\TT\TT\obj\x86\Debug\R.Informes.resources
+C:\Users\Camilo\Desktop\TT\TT\obj\x86\Debug\R.InformeTrabajadores.resources
+C:\Users\Camilo\Desktop\TT\TT\bin\Debug\TT.exe.config
+C:\Users\Camilo\Desktop\TT\TT\bin\Debug\bdremuneracion.sdf
+C:\Users\Camilo\Desktop\TT\TT\obj\x86\Debug\TT.vbprojResolveAssemblyReference.cache
+C:\Users\Camilo\Desktop\TT\TT\obj\x86\Debug\R.LibroLicencias.resources
+C:\Users\Camilo\Desktop\TT\TT\obj\x86\Debug\R.Parametrosvb.resources
+C:\Users\Camilo\Desktop\TT\TT\obj\x86\Debug\R.InformeLibro.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\bin\Debug\TT.exe.config
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\TT.exe
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\TT.xml
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\TT.pdb
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\bin\Debug\bdremuneracion.sdf
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\bin\Debug\TT.exe
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\bin\Debug\TT.pdb
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\bin\Debug\TT.xml
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\TT.vbprojResolveAssemblyReference.cache
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\R.AgregarDescuento.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\R.Agregar_Modificar.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\R.Calculo.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\R.Eventos.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\R.Form1.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\R.frmAgregarHaber.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\R.frmMantenedorDescuentos.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\R.ImprimirFiniquito.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\R.InformeCC.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\R.InformeHorasExtras.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\R.InformeLibro.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\R.Informes.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\R.InformeTrabajadores.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\R.LibroLicencias.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\R.MantenedorEmpleados.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\R.Menúvb.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\R.Resources.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\R.Parametrosvb.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng\TT\TT\obj\x86\Debug\TT.vbproj.GenerateResource.Cache
+C:\Users\Fabián\Desktop\snfmiksangianigasng - copia\TT\TT\bin\Debug\TT.exe.config
+C:\Users\Fabián\Desktop\snfmiksangianigasng - copia\TT\TT\obj\x86\Debug\TT.exe
+C:\Users\Fabián\Desktop\snfmiksangianigasng - copia\TT\TT\obj\x86\Debug\TT.xml
+C:\Users\Fabián\Desktop\snfmiksangianigasng - copia\TT\TT\obj\x86\Debug\TT.pdb
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\bin\Debug\TT.exe.config
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\TT.exe
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\TT.xml
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\TT.pdb
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\bin\Debug\bdremuneracion.sdf
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\bin\Debug\TT.exe
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\bin\Debug\TT.pdb
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\bin\Debug\TT.xml
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\TT.vbprojResolveAssemblyReference.cache
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\R.AgregarDescuento.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\R.Agregar_Modificar.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\R.Calculo.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\R.Eventos.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\R.Form1.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\R.frmAgregarHaber.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\R.frmMantenedorDescuentos.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\R.ImprimirFiniquito.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\R.InformeCC.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\R.InformeHorasExtras.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\R.InformeLibro.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\R.Informes.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\R.InformeTrabajadores.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\R.LibroLicencias.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\R.MantenedorEmpleados.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\R.Menúvb.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\R.Resources.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\R.Parametrosvb.resources
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\TT.vbproj.GenerateResource.Cache
+C:\Users\Fabián\Desktop\snfmiksangianigasng - respaldo\TT\TT\obj\x86\Debug\R.frmMantenedorOficios.resources
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\bin\Debug\TT.exe.config
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\TT.exe
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\TT.xml
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\TT.pdb
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\bin\Debug\bdremuneracion.sdf
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\bin\Debug\TT.exe
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\bin\Debug\TT.pdb
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\bin\Debug\TT.xml
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\TT.vbprojResolveAssemblyReference.cache
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\R.AgregarDescuento.resources
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\R.Agregar_Modificar.resources
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\R.Calculo.resources
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\R.Eventos.resources
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\R.Form1.resources
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\R.frmAgregarHaber.resources
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\R.frmMantenedorDescuentos.resources
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\R.frmMantenedorOficios.resources
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\R.ImprimirFiniquito.resources
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\R.InformeCC.resources
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\R.InformeHorasExtras.resources
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\R.InformeLibro.resources
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\R.Informes.resources
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\R.InformeTrabajadores.resources
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\R.LibroLicencias.resources
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\R.MantenedorEmpleados.resources
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\R.Menúvb.resources
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\R.Resources.resources
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\R.Parametrosvb.resources
+C:\Users\Fabián\Desktop\ProblemasBd - copia\TT\TT\obj\x86\Debug\TT.vbproj.GenerateResource.Cache
+C:\Users\Fabián\Desktop\Mantenedores TT\TT\TT\bin\Debug\TT.exe.config
+C:\Users\Fabián\Desktop\Mantenedores TT\TT\TT\obj\x86\Debug\TT.exe
+C:\Users\Fabián\Desktop\Mantenedores TT\TT\TT\obj\x86\Debug\TT.xml
+C:\Users\Fabián\Desktop\Mantenedores TT\TT\TT\obj\x86\Debug\TT.pdb
